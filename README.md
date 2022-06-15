@@ -6,6 +6,7 @@ Collection of classic interview problems from companies like Amazon, Facebook, G
 ## Index
 - [Interleaving strings](#interleaving-strings)
 - [Majority Element](#majority-element)
+- [Rotate Matrix](#rotate-matrix)
 - [Reference](#reference)
 
 
@@ -62,6 +63,33 @@ Example :
 
 Input : [2, 1, 2]
 Return  : 2 which occurs 2 times which is greater than 3/2.
+```
+
+### Rotate Matrix
+
+```plain
+You are given an n x n 2D matrix representing an image.
+
+Rotate the image by 90 degrees (clockwise).
+
+You need to do this in place.
+
+Note that if you end up using an additional array, you will only receive partial score.
+
+Example:
+
+If the array is
+
+[
+    [1, 2],
+    [3, 4]
+]
+Then the rotated array becomes:
+
+[
+    [3, 1],
+    [4, 2]
+]
 ```
 
 ### Reference:
